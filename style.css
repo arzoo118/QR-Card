@@ -1,0 +1,28 @@
+body{
+    background-color: #D5E1EF;
+    min-height: 100vh;
+    text-align: center;
+}
+.card{
+    max-height: 574px;
+    width: 100%;
+    max-width: 368px;
+    box-shadow: 2px 5px 10px 1px rgb(0 0 0 / 20%);
+    background-color: white;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 10px;
+    padding: 1rem;
+    padding-bottom: 1px;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+h2{
+    color: rgb(34,50,80);
+}
+p{
+    color: rgb(104, 119, 141);
+}
